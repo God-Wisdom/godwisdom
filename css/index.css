@@ -15,17 +15,17 @@ main {
 }
 
 main .main-intro h1 {
-    font-size: 5.6rem;
-    line-height: 1.25rem;
+    font-size: 9.6rem;
+    line-height: 1.1rem;
     margin-bottom: 20px;
 }
 
 
 
 main p {
-    font-size: 2.8rem;
-    line-height: 1.7rem;
-    max-width: 400px;
+    font-size: 1.8rem;
+    line-height: 1.75rem;
+    max-width: 500px;
 }
 
 main a {
@@ -242,7 +242,7 @@ main .main-quotes {
     }
 
     main .main-intro h1 {
-        font-size: 5.5rem;
+        font-size: 5rem;
         line-height: 1.25rem;
         text-align: center;
     }
@@ -250,9 +250,9 @@ main .main-quotes {
     
 
     main p {
-        text-align: center;
-        padding: 0 10px;
-        font-size: 2.6rem;
+       text-align: center;
+        padding: 0 20px;
+        font-size: 1.6rem;
         line-height: 1.75rem;
     }
 
