@@ -234,6 +234,7 @@ main .main-quotes {
     main {
 
         align-items: flex-end;
+         z-index: 100;
     }
 
     main .main-intro {
