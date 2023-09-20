@@ -242,7 +242,7 @@ main .main-quotes {
     }
 
     main .main-intro h1 {
-        font-size: 2rem;
+        font-size: 7rem;
         line-height: 1.25;
         text-align: center;
     }
@@ -251,8 +251,8 @@ main .main-quotes {
 
     main p {
         text-align: center;
-        padding: 0 20px;
-        font-size: 1.6rem;
+        padding: 0 10px;
+        font-size: 2.6rem;
         line-height: 1.75rem;
     }
 
