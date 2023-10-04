@@ -135,7 +135,7 @@ a {
     color: blue;
     display: block;
     height: 100%;
-    z-index: 100;
+    z-index: 1000;
 }
 
 .header-main-nav ul li a:hover {
